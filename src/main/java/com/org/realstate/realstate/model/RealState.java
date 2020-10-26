@@ -10,4 +10,5 @@ public class RealState {
     private Integer floors;
     private String Location;
     private Integer distance;
+    private Boolean name;
 }
